@@ -2,4 +2,4 @@ print("hi")
 print("By")
 
 def main():
-    return
+    return 'got it fixed'
