@@ -8,5 +8,5 @@ def main():
 def func(i) -> int:
     return i + 1
 
-if i > i:
+if 10 > 1:
     print('yes')
