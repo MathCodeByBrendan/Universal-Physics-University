@@ -8,4 +8,4 @@
 
 - Data Storage Persistence
 
-- 
+- Database of properties of physical objects to be used in simulations
