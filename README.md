@@ -2,8 +2,10 @@
 
 # Features 
 
-- GUI
+- GUI (matplotlib.pyplot)
 
 - Mechanics (Physics Demo)
 
 - Data Storage Persistence
+
+- 
