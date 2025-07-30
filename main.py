@@ -7,3 +7,6 @@ def main():
 
 def func(i) -> int:
     return i + 1
+
+if i > i:
+    print('yes')
